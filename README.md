@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeyZv&bg_color=00000000&border_color=00000000&text_color=4078c0)](https://github.com/MikeyZv/github-readme-stats)
 <!--
 **MikeyZv/MikeyZv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
